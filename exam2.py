@@ -72,7 +72,7 @@ inventory_analyzer()
 
 
 
-
+"""
 Welcome to Inventory List Analyzer!
 
 Enter item name: milk
@@ -134,4 +134,5 @@ Categories in Alphabetical Order:
 Explanation: The set of unique categories was sorted alphabetically for display.
 
 ========== END OF REPORT ==========
+"""
 
