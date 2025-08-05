@@ -117,7 +117,7 @@ Unique Categories in Inventory: {'garin', 'dairy', 'spice', 'grain'}
 Explanation: Categories are taken from user input and converted to lowercase.
 No duplicates are shown here.
 
-📦 Items Sorted by Quantity (High to Low):
+Items Sorted by Quantity (High to Low):
 1. rice - 50 units
 2. sugar - 40 units
 3. milk - 10 units
@@ -125,7 +125,7 @@ No duplicates are shown here.
 
 Explanation: Items are sorted using the quantity field from highest to lowest.
 
-📁 Categories in Alphabetical Order:
+Categories in Alphabetical Order:
 1. dairy
 2. garin
 3. grain
@@ -134,3 +134,4 @@ Explanation: Items are sorted using the quantity field from highest to lowest.
 Explanation: The set of unique categories was sorted alphabetically for display.
 
 ========== END OF REPORT ==========
+
